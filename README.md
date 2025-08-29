@@ -8,7 +8,8 @@ This README will be updated as the project evolves.
 ## Structure
 Work in progres.. 
 
-- The data in `/JusticeLawWebsite/` are in XML format as-is and is expected to requires post-processing prior to use (e.g. remove unnecessary metadata)  
+- The data in `/JusticeLawWebsite/raw` are in XML format as-is and is expected to requires post-processing prior to use (e.g. remove unnecessary metadata)  
+    - Data in `/JusticeLawWebsite/formatted` has been formated with `xmllint` to make it more human-readable.
 - The data in `/StatuteRepeal/` are in HTML and PHP format and contains data published under the Statutes Repeal Act. Source: <https://laws-lois.justice.gc.ca/eng/Reports/>
 - The data in '/GazettePartI/Index' are in HTML/PDF format as-is and contains the quaterly index files only. Part I notices related to *Repeals* can be found in `/StatusRepeal/` 
 

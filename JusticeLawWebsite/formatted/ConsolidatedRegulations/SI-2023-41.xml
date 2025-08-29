@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Regulation xmlns:lims="http://justice.gc.ca/lims" lims:pit-date="2025-03-14" hasPreviousVersion="true" lims:lastAmendedDate="2025-03-14" lims:current-date="2025-03-17" lims:inforce-start-date="2023-07-26" lims:enacted-date="2023-07-26" lims:fid="1420236" lims:id="1420236" gazette-part="II" regulation-type="SI" xml:lang="en">
+  <Identification lims:inforce-start-date="2023-07-26" lims:enacted-date="2023-07-26" lims:fid="1420237" lims:id="1420237">
+    <InstrumentNumber>SI/2023-41</InstrumentNumber>
+    <RegistrationDate>
+      <Date>
+        <YYYY>2023</YYYY>
+        <MM>08</MM>
+        <DD>16</DD>
+      </Date>
+    </RegistrationDate>
+    <ConsolidationDate>
+      <Date>
+        <YYYY>2025</YYYY>
+        <MM>3</MM>
+        <DD>18</DD>
+      </Date>
+    </ConsolidationDate>
+    <EnablingAuthority lims:inforce-start-date="2023-07-26" lims:enacted-date="2023-07-26" lims:fid="1420238" lims:id="1420238">
+      <XRefExternal reference-type="act" link="C-18.7">CANADIAN MULTICULTURALISM ACT</XRefExternal>
+    </EnablingAuthority>
+    <LongTitle lims:inforce-start-date="2023-07-26" lims:enacted-date="2023-07-26" lims:fid="1420239" lims:id="1420239">Order Designating the Minister of State (Diversity, Inclusion and Persons with Disabilities) as the Minister for the Purposes of the Canadian Multiculturalism Act</LongTitle>
+    <RegulationMakerOrder>
+      <RegulationMaker>P.C.</RegulationMaker>
+      <OrderNumber>2023-771</OrderNumber>
+      <Date>
+        <YYYY>2023</YYYY>
+        <MM>7</MM>
+        <DD>26</DD>
+      </Date>
+    </RegulationMakerOrder>
+  </Identification>
+  <Repealed lims:inforce-start-date="2025-03-14" lims:enacted-date="2025-03-14" lims:fid="1523552" lims:id="1523552">[Repealed, SI/2025-45]</Repealed>
+  <RecentAmendments>
+    <Amendment>
+      <AmendmentCitation>SI/2025-45</AmendmentCitation>
+      <AmendmentDate>2025-03-14</AmendmentDate>
+    </Amendment>
+  </RecentAmendments>
+</Regulation>

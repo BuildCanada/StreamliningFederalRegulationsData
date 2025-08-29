@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<Regulation xmlns:lims="http://justice.gc.ca/lims" lims:pit-date="2021-11-20" lims:lastAmendedDate="2021-11-20" lims:current-date="2021-11-29" lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328446" lims:id="1328446" gazette-part="II" regulation-type="SOR" xml:lang="en">
+  <Identification lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328447" lims:id="1328447">
+    <InstrumentNumber>SOR/2021-231</InstrumentNumber>
+    <RegistrationDate>
+      <Date>
+        <YYYY>2021</YYYY>
+        <MM>11</MM>
+        <DD>20</DD>
+      </Date>
+    </RegistrationDate>
+    <ConsolidationDate>
+      <Date>
+        <YYYY>2021</YYYY>
+        <MM>11</MM>
+        <DD>30</DD>
+      </Date>
+    </ConsolidationDate>
+    <EnablingAuthority lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328448" lims:id="1328448">
+      <XRefExternal reference-type="act" link="S-15.3">SPECIES AT RISK ACT</XRefExternal>
+    </EnablingAuthority>
+    <LongTitle lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328449" lims:id="1328449">Emergency Order for the Protection of the Western Chorus Frog Great Lakes / St. Lawrence &#x2014; Canadian Shield Population (Longueuil)</LongTitle>
+    <RegulationMakerOrder>
+      <RegulationMaker>P.C.</RegulationMaker>
+      <OrderNumber>2021-960</OrderNumber>
+      <Date>
+        <YYYY>2021</YYYY>
+        <MM>11</MM>
+        <DD>20</DD>
+      </Date>
+    </RegulationMakerOrder>
+  </Identification>
+  <Order lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328450" lims:id="1328450">
+    <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328451" lims:id="1328451" format-ref="indent-0-0" language-align="yes">
+      <Text>Her Excellency the Governor General in Council, on the recommendation of the Minister of the Environment, pursuant to section 80 and subsection 97(2) of the <XRefExternal reference-type="act" link="S-15.3">Species at Risk Act</XRefExternal><FootnoteRef idref="fna">a</FootnoteRef>, makes the annexed <XRefExternal reference-type="regulation" link="SOR-2021-231">Emergency Order for the Protection of the Western Chorus Frog Great Lakes / St. Lawrence &#x2014; Canadian Shield Population (Longueuil)</XRefExternal>.</Text>
+      <Footnote id="fna" placement="page" status="official">
+        <Label>a</Label>
+        <Text>S.C. 2002, c. 29</Text>
+      </Footnote>
+    </Provision>
+  </Order>
+  <Body lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328452" lims:id="1328452">
+    <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328453" lims:id="1328453" level="1">
+      <TitleText>Habitat</TitleText>
+    </Heading>
+    <Section lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:lastAmendedDate="2021-11-20" lims:fid="1328454" lims:id="1328454">
+      <MarginalNote lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328455" lims:id="1328455">Identification</MarginalNote>
+      <Label>1</Label>
+      <Text>For the purposes of paragraph 80(4)(c) of the <XRefExternal reference-type="act" link="S-15.3">Species at Risk Act</XRefExternal>, the areas that are described in the schedule are identified as habitat that is necessary for the recovery of the Western Chorus Frog (<Language xml:lang="la">Pseudacris triseriata</Language>) Great Lakes / St. Lawrence &#x2014; Canadian Shield population.</Text>
+    </Section>
+    <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328456" lims:id="1328456" level="1">
+      <TitleText>Prohibitions</TitleText>
+    </Heading>
+    <Section lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:lastAmendedDate="2021-11-20" lims:fid="1328457" lims:id="1328457">
+      <MarginalNote lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328458" lims:id="1328458">Prohibited activities</MarginalNote>
+      <Label>2</Label>
+      <Subsection lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328459" lims:id="1328459">
+        <Label>(1)</Label>
+        <Text>In the areas described in the schedule, it is prohibited to</Text>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328460" lims:id="1328460">
+          <Label>(a)</Label>
+          <Text>dig, remove, compact or plow the soil;</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328461" lims:id="1328461">
+          <Label>(b)</Label>
+          <Text>remove, prune, mow, damage, destroy or introduce any vegetation, such as a tree, shrub or plant;</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328462" lims:id="1328462">
+          <Label>(c)</Label>
+          <Text>drain or flood the ground;</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328463" lims:id="1328463">
+          <Label>(d)</Label>
+          <Text>alter surface water in any manner, including by altering its flow rate, its volume or the direction of its flow;</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328464" lims:id="1328464">
+          <Label>(e)</Label>
+          <Text>install, construct or perform any maintenance work on any infrastructure;</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328465" lims:id="1328465">
+          <Label>(f)</Label>
+          <Text>use a vehicle, including a vehicle propelled by muscular power, anywhere other than on a road or paved path;</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328466" lims:id="1328466">
+          <Label>(g)</Label>
+          <Text>install or construct any structure or barrier that impedes the circulation, dispersal or migration of the Western Chorus Frog;</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328467" lims:id="1328467">
+          <Label>(h)</Label>
+          <Text>deposit, discharge, dump or immerse any material or substance, such as snow, gravel, sand, soil, construction material, garbage, greywater or swimming pool water; and</Text>
+        </Paragraph>
+        <Paragraph lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328468" lims:id="1328468">
+          <Label>(i)</Label>
+          <Text>use or apply a <DefinitionRef>fertilizer</DefinitionRef> as defined in section 2 of the <XRefExternal reference-type="act" link="F-10">Fertilizers Act</XRefExternal> or a <DefinitionRef>pest control product</DefinitionRef> as defined in section 2 of the <XRefExternal reference-type="act" link="P-9">Pest Control Products Act</XRefExternal>.</Text>
+        </Paragraph>
+      </Subsection>
+      <Subsection lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328469" lims:id="1328469">
+        <MarginalNote lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328470" lims:id="1328470">Non-application</MarginalNote>
+        <Label>(2)</Label>
+        <Text>The prohibitions do not apply to a person who is engaging in activities related to public safety or health that are authorized under provincial law.</Text>
+      </Subsection>
+    </Section>
+    <Section lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:lastAmendedDate="2021-11-20" lims:fid="1328471" lims:id="1328471">
+      <MarginalNote lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328472" lims:id="1328472">Offence</MarginalNote>
+      <Label>3</Label>
+      <Text>Any contravention of subsection <XRefInternal>2</XRefInternal>(1) is an offence for the purposes of section 97 of the <XRefExternal reference-type="act" link="S-15.3">Species at Risk Act</XRefExternal>.</Text>
+    </Section>
+    <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328473" lims:id="1328473" level="1">
+      <TitleText>Application Before Publication</TitleText>
+    </Heading>
+    <Section lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:lastAmendedDate="2021-11-20" lims:fid="1328474" lims:id="1328474">
+      <MarginalNote lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328475" lims:id="1328475">
+        <XRefExternal reference-type="act" link="S-22">Statutory Instruments Act</XRefExternal>
+      </MarginalNote>
+      <Label>4</Label>
+      <Text>For the purposes of paragraph 11(2)(a) of the <XRefExternal reference-type="act" link="S-22">Statutory Instruments Act</XRefExternal>, this Order applies according to its terms before it is published in the <XRefExternal reference-type="other" link="gazette">Canada Gazette</XRefExternal>.</Text>
+    </Section>
+    <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328476" lims:id="1328476" level="1">
+      <TitleText>Coming into Force</TitleText>
+    </Heading>
+    <Section lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:lastAmendedDate="2021-11-20" lims:fid="1328477" lims:id="1328477" type="CIFnobold">
+      <MarginalNote lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328478" lims:id="1328478">Registration</MarginalNote>
+      <Label>5</Label>
+      <Text>This Order comes into force on the day on which it is registered.</Text>
+    </Section>
+  </Body>
+  <Schedule lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:lastAmendedDate="2021-11-20" lims:fid="1328479" lims:id="1328479">
+    <ScheduleFormHeading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328480" lims:id="1328480">
+      <Label>SCHEDULE</Label>
+      <OriginatingRef>(Section <XRefInternal>1</XRefInternal> and subsection <XRefInternal>2</XRefInternal>(1))</OriginatingRef>
+      <TitleText>Habitat Necessary for the Recovery of the Western Chorus Frog</TitleText>
+    </ScheduleFormHeading>
+    <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328481" lims:id="1328481" level="3">
+      <TitleText>DESCRIPTION</TitleText>
+    </Heading>
+    <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328482" lims:id="1328482" format-ref="indent-0-0" language-align="yes">
+      <Text>Lots:</Text>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328483" lims:id="1328483" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SIX THOUSAND NINE HUNDRED AND FIFTY (3&#xA0;526&#xA0;950),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328484" lims:id="1328484" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SIX THOUSAND NINE HUNDRED AND FIFTY-ONE (3&#xA0;526&#xA0;951),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328485" lims:id="1328485" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SIX THOUSAND NINE HUNDRED AND FIFTY-TWO (3&#xA0;526&#xA0;952),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328486" lims:id="1328486" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SIX THOUSAND NINE HUNDRED AND FIFTY-THREE (3&#xA0;526&#xA0;953),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328487" lims:id="1328487" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SIX THOUSAND NINE HUNDRED AND FIFTY-FOUR (3&#xA0;526&#xA0;954),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328488" lims:id="1328488" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SIX THOUSAND NINE HUNDRED AND FIFTY-FIVE (3&#xA0;526&#xA0;955),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328489" lims:id="1328489" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SIX THOUSAND NINE HUNDRED AND FIFTY-SEVEN (3&#xA0;526&#xA0;957),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328490" lims:id="1328490" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND THREE HUNDRED AND THIRTY (3&#xA0;527&#xA0;330),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328491" lims:id="1328491" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND THREE HUNDRED AND THIRTY-ONE (3&#xA0;527&#xA0;331),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328492" lims:id="1328492" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND THREE HUNDRED AND THIRTY-TWO (3&#xA0;527&#xA0;332),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328493" lims:id="1328493" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND THREE HUNDRED AND THIRTY-THREE (3&#xA0;527&#xA0;333),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328494" lims:id="1328494" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND THREE HUNDRED AND THIRTY-FOUR (3&#xA0;527&#xA0;334),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328495" lims:id="1328495" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND THREE HUNDRED AND THIRTY-FIVE (3&#xA0;527&#xA0;335),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328496" lims:id="1328496" format-ref="indent-0-0" language-align="yes">
+        <Text>THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND THREE HUNDRED AND THIRTY-SIX (3&#xA0;527&#xA0;336),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328497" lims:id="1328497" format-ref="indent-0-0" language-align="yes">
+        <Text>FOUR MILLION NINE HUNDRED AND TWENTY THOUSAND EIGHT HUNDRED AND NINETY-THREE (4&#xA0;920&#xA0;893),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328498" lims:id="1328498" format-ref="indent-0-0" language-align="yes">
+        <Text>FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND FOUR HUNDRED AND SIXTY-SEVEN (4&#xA0;921&#xA0;467),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328499" lims:id="1328499" format-ref="indent-0-0" language-align="yes">
+        <Text>FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND FOUR HUNDRED AND SIXTY-EIGHT (4&#xA0;921&#xA0;468),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328500" lims:id="1328500" format-ref="indent-0-0" language-align="yes">
+        <Text>FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND FOUR HUNDRED AND NINETY (4&#xA0;921&#xA0;490),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328501" lims:id="1328501" format-ref="indent-0-0" language-align="yes">
+        <Text>FIVE MILLION ONE HUNDRED AND THIRTY-SEVEN THOUSAND FOUR HUNDRED AND FORTY-FOUR (5&#xA0;137&#xA0;444),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328502" lims:id="1328502" format-ref="indent-0-0" language-align="yes">
+        <Text>FIVE MILLION ONE HUNDRED AND THIRTY-SEVEN THOUSAND FOUR HUNDRED AND FORTY-SIX (5&#xA0;137&#xA0;446),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328503" lims:id="1328503" format-ref="indent-0-0" language-align="yes">
+        <Text>FIVE MILLION FOUR HUNDRED AND SIXTY-EIGHT THOUSAND ONE HUNDRED AND FOUR (5&#xA0;468&#xA0;104),</Text>
+      </Provision>
+      <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328504" lims:id="1328504" format-ref="indent-0-0" language-align="yes">
+        <Text>of the cadastre of Quebec, registration division of Longueuil, province of Quebec, and the parts of lots described as follows:</Text>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328505" lims:id="1328505" level="4">
+          <TitleText>PARCEL 1 &#x2014; Part of lot 5&#xA0;097&#xA0;002</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328506" lims:id="1328506" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND AND TWO (Pt. lot 5&#xA0;097&#xA0;002), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328507" lims:id="1328507" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 5&#xA0;097&#xA0;002, bounded: northeasterly, by a part of lot 4&#xA0;920&#xA0;896, measuring along said boundary one hundred and fifty-three meters and thirty-five hundredths (153.35&#xA0;m) on a bearing of 137&#xB0;22&#x2032;53&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;002, measuring along said boundary fifty-nine meters and thirteen hundredths (59.13&#xA0;m) on a bearing of 224&#xB0;12&#x2032;13&#x2033;, southwesterly, by lot 4&#xA0;640&#xA0;999, measuring along said boundary sixty-six meters and twelve hundredths (66.12&#xA0;m) on a bearing of 317&#xB0;22&#x2032;52&#x2033;, southeasterly, by lot 4&#xA0;640&#xA0;999, measuring along said boundary forty-one meters and sixty hundredths (41.60&#xA0;m) on a bearing of 224&#xB0;12&#x2032;52&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;002, measuring along said limit eighty-four meters and sixty hundredths (84.60&#xA0;m) on a bearing of 317&#xB0;22&#x2032;52&#x2033;, northwesterly, by a part of lot 4&#xA0;920&#xA0;889, measuring along said limit sixty-two meters and seventy-seven hundredths (62.77&#xA0;m) on a bearing of 47&#xB0;22&#x2032;45&#x2033;, northwesterly, by a part of lot 4&#xA0;920&#xA0;889, measuring along said limit thirty-eight meters and ninety-nine hundredths (38.99&#xA0;m) along an arc of a circle of ninety-one meters and twenty-eight hundredths (91.28&#xA0;m) radius.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328508" lims:id="1328508" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of twelve thousand two hundred and thirty-three square meters (12&#xA0;233.0&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328509" lims:id="1328509" level="4">
+          <TitleText>PARCEL 2 &#x2014; Part of lot 4&#xA0;920&#xA0;896</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328510" lims:id="1328510" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY THOUSAND EIGHT HUNDRED AND NINETY-SIX (Pt. lot 4&#xA0;920&#xA0;896), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328511" lims:id="1328511" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the west corner of lot 4&#xA0;920&#xA0;896, bounded: westwardly, by lot 5&#xA0;097&#xA0;003, measuring along said boundary nineteen meters and eighty-five hundredths (19.85&#xA0;m) along an arc of a circle of ninety-one meters and twenty-eight hundredths (91.28&#xA0;m) radius, westwardly, by lot 5&#xA0;097&#xA0;003, measuring along said boundary ninety-nine meters and fifty-two hundredths (99.52&#xA0;m) on a bearing of 10&#xB0;20&#x2032;29&#x2033;, northeasterly, by a portion of lot 4&#xA0;920&#xA0;896, measuring along said boundary two hundred eighteen meters and thirty-one hundredths (218.31&#xA0;m) on a bearing of 136&#xB0;44&#x2032;57&#x2033;, southeasterly, by a portion of lot 4&#xA0;920&#xA0;896 measuring along said boundary twenty meters and twenty-nine hundredths (20.29&#xA0;m) on a bearing of 223&#xB0;43&#x2032;01&#x2033;, southeasterly, by a portion of lot 4&#xA0;920&#xA0;896, measuring along said boundary seventy meters and eighty-one hundredths (70.81&#xA0;m) on a bearing of 224&#xB0;39&#x2032;08&#x2033;, southeasterly, by a portion of lot 4&#xA0;920&#xA0;896, measuring along said limit seven meters and ninety-one hundredths (7.91&#xA0;m) on a bearing of 224&#xB0;12&#x2032;14&#x2033;, southwesterly, by a portion of lot 5&#xA0;097&#xA0;002, measuring along said limit one hundred and fifty-three meters and thirty-five hundredths (153.35&#xA0;m) on a bearing of 317&#xB0;22&#x2032;53&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328512" lims:id="1328512" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of eighteen thousand and eighty-nine square meters (18&#xA0;089.0&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328513" lims:id="1328513" level="4">
+          <TitleText>PARCEL 3 &#x2014; Part of lot 4&#xA0;920&#xA0;889</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328514" lims:id="1328514" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY THOUSAND EIGHT HUNDRED AND EIGHTY-NINE (Pt. lot 4&#xA0;920&#xA0;889), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328515" lims:id="1328515" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 4&#xA0;920&#xA0;889, bounded: northeasterly, by lot 5&#xA0;097&#xA0;003, measuring along said limit twenty-two meters and eighty hundredths (22.80&#xA0;m) on a bearing of 137&#xB0;22&#x2032;54&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;002, measuring along said limit thirty-eight meters and ninety-nine hundredths (38.99&#xA0;m) along an arc of a circle of ninety-one meters and twenty-eight hundredths (91.28&#xA0;m) radius, southeasterly by a part of lot 5&#xA0;097&#xA0;002, measuring along said limit sixty-two meters and seventy-seven hundredths (62.77&#xA0;m) on a bearing of 227&#xB0;22&#x2032;45&#x2033;, southwesterly by a part of lot 4&#xA0;920&#xA0;889, measuring along said limit six meters and sixty-two hundredths (6.62&#xA0;m) on a bearing of 317&#xB0;20&#x2032;06&#x2033;, northwesterly, by a part of lot 4&#xA0;920&#xA0;889, measuring along said limit seventeen meters and seventy-three hundredths (17.73&#xA0;m) on a bearing of 41&#xB0;24&#x2032;49&#x2033;, southwesterly, by a part of lot 4&#xA0;920&#xA0;889, measuring along said limit eleven meters and sixty-five hundredths (11.65&#xA0;m) on a bearing of 317&#xB0;57&#x2032;08&#x2033;, northwesterly by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit forty-five meters and two hundredths (45.02&#xA0;m) on a bearing of 47&#xB0;22&#x2032;45&#x2033;, northwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit thirty-nine meters and eighty-six hundredths (39.86&#xA0;m) along an arc of a circle of seventy-one meters and sixteen hundredths (71.16&#xA0;m) radius.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328516" lims:id="1328516" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of one thousand eight hundred and thirty-one square meters and eight tenths (1&#xA0;831.8&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328517" lims:id="1328517" level="4">
+          <TitleText>PARCEL 4 &#x2014; Part of lot 5&#xA0;097&#xA0;003</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328518" lims:id="1328518" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND AND THREE (Pt. lot 5&#xA0;097&#xA0;003), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328519" lims:id="1328519" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the south corner of lot 5&#xA0;097&#xA0;003, bounded: in a southwesterly direction, by lot 4&#xA0;920&#xA0;889, measuring along said limit twenty-two metres and eighty hundredths (22.80&#xA0;m) on a bearing of 317&#xB0;22&#x2032;54&#x2033;, in a westerly direction, by a part of lot 5&#xA0;097&#xA0;010, measuring along said limit six metres (6.00&#xA0;m) along an arc of a circle of seventy-one metres and sixteen hundredths (71.16&#xA0;m) radius, westerly, through a portion of lot 5&#xA0;097&#xA0;010, measuring along said boundary one hundred fourteen metres and thirty hundredths (114.30&#xA0;m) on a bearing of 10&#xB0;21&#x2032;04&#x2033;, northeasterly, through a part of lot 5&#xA0;097&#xA0;003 measuring along said boundary twenty-four metres and ninety-seven hundredths (24.97&#xA0;m) on a bearing of 136&#xB0;44&#x2032;57&#x2033;, easterly, by a part of lot 4&#xA0;920&#xA0;896, measuring along said boundary ninety-nine metres and fifty-two hundredths (99.52&#xA0;m) on a bearing of 190&#xB0;20&#x2032;29&#x2033;, southeasterly by a portion of lot 4&#xA0;920&#xA0;896, measuring along said limit nineteen metres and eighty-five hundredths (19.85&#xA0;m) along an arc of a circle of ninety-one metres and twenty-eight hundredths (91.28&#xA0;m) radius.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328520" lims:id="1328520" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two thousand four hundred and ten square metres and seven tenths (2&#xA0;410.7&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328521" lims:id="1328521" level="4">
+          <TitleText>PARCEL 5 &#x2014; Part of lot 5&#xA0;097&#xA0;001</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328522" lims:id="1328522" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND AND ONE (Pt. lot 5&#xA0;097&#xA0;001), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328523" lims:id="1328523" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the east corner of lot 5&#xA0;097&#xA0;001, bounded: southeasterly, by a part of lot 4&#xA0;920&#xA0;889, measuring along said limit thirty-nine meters and eighty-six hundredths (39.86&#xA0;m) along an arc of a circle of seventy-one meters and sixteen hundredths (71.16&#xA0;m) radius, southeasterly, by a part of lot 4&#xA0;920&#xA0;889, measuring along said limit forty-five meters and two hundredths (45.02&#xA0;m) on a bearing of 227&#xB0;22&#x2032;45&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said boundary six meters and sixty-six hundredths (6.66&#xA0;m) on a bearing of 317&#xB0;57&#x2032;08&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said boundary seventeen meters and fifty-eight hundredths (17.58&#xA0;m) on a bearing of 314&#xB0;09&#x2032;56&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit sixteen meters and twenty-four hundredths (16.24&#xA0;m) on a bearing of 225&#xB0;31&#x2032;08&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit five meters and fifty hundredths (5.50&#xA0;m) on a bearing of 310&#xB0;48&#x2032;15&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;001 measuring along said boundary fifty meters and forty-eight hundredths (50.48&#xA0;m) on a bearing of 317&#xB0;20&#x2032;6&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said boundary thirty meters and twenty-four hundredths (30.24&#xA0;m) along an arc of a circle of two hundred and thirty meters and seventy hundredths (230.70&#xA0;m) radius, southwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit forty-two meters and eighty-one hundredths (42.81&#xA0;m) along an arc of a circle of three hundred sixty meters and sixty-seven hundredths (360.67&#xA0;m) radius, to the west, by a part of lot 5&#xA0;097&#xA0;000, measuring along said limit four meters and twenty-one hundredths (4.21&#xA0;m) along an arc of a circle of thirty meters and fifty-two hundredths (30.52&#xA0;m) radius, northwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit thirty-six meters and twenty-two hundredths (36.22&#xA0;m) on a bearing of 32&#xB0;22&#x2032;28&#x2033;, northwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit eighteen meters and sixty-five hundredths (18.65&#xA0;m) on a bearing of 40&#xB0;12&#x2032;17&#x2033;, northwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit twenty-three meters and sixty-seven hundredths (23.67&#xA0;m) on a bearing of 53&#xB0;51&#x2032;53&#x2033;, northwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit twenty-eight meters and seventy-two hundredths (28.72&#xA0;m) on a bearing of 57&#xB0;06&#x2032;17&#x2033;, northwesterly by a part of lot 5&#xA0;097&#xA0;001, measuring along said boundary three meters and forty hundredths (3.40&#xA0;m) on a bearing of 48&#xB0;15&#x2032;33&#x2033;, northeasterly by a part of lot 5&#xA0;097&#xA0;010, measuring along said boundary one hundred and forty-eight meters and sixty-eight hundredths (148.68&#xA0;m) on a bearing of 137&#xB0;22&#x2032;53&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328524" lims:id="1328524" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of sixteen thousand one hundred and eighty-six square meters and nine tenths (16&#xA0;186.9&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328525" lims:id="1328525" level="4">
+          <TitleText>PARCEL 6 &#x2014; Part of lot 5&#xA0;097&#xA0;001</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328526" lims:id="1328526" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND AND ONE (Pt. lot 5&#xA0;097&#xA0;001), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328527" lims:id="1328527" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 5&#xA0;097&#xA0;001, bounded: northeasterly, by a part of lot 5&#xA0;097&#xA0;010, measuring along said limit seventy-two meters and seventy-five hundredths (72.75&#xA0;m) on a bearing of 137&#xB0;22&#x2032;53&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit sixty-nine hundredths of a meter (0.69&#xA0;m) on a bearing of 217&#xB0;44&#x2032;56&#x2033;, southeasterly, by a part of lot 5&#xA0;094&#xA0;001 measuring along said boundary eleven meters and sixty-two hundredths (11.62&#xA0;m) on a bearing of 234&#xB0;31&#x2032;36&#x2033;, southeasterly by a part of lot 5&#xA0;097&#xA0;001, measuring along said boundary ten meters and fifteen hundredths (10.15&#xA0;m) on a bearing of 228&#xB0;54&#x2032;15&#x2033;, easterly by a part of lot 5&#xA0;097&#xA0;001, measuring along said boundary one meter and twenty-two hundredths (1.22&#xA0;m) on a bearing of 195&#xB0;29&#x2032;21&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit thirty-five meters and ninety-three hundredths (35.93&#xA0;m) on a bearing of 231&#xB0;58&#x2032;10&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit eighteen meters and seventy-nine hundredths (18.79&#xA0;m) on a bearing of 220&#xB0;25&#x2032;44&#x2033;, measuring along said boundary fourteen meters and thirty-six hundredths (14.36&#xA0;m) on a bearing of 223&#xB0;42&#x2032;28&#x2033;, southeasterly, by a part of lot 5&#xA0;094&#xA0;001, measuring along said boundary five meters (5.00&#xA0;m) on a bearing of 217&#xB0;05&#x2032;17&#x2033;, westerly, by a part of lot 5&#xA0;097&#xA0;000, measuring along said boundary one hundred and twenty-one meters and forty-nine hundredths (121.49&#xA0;m) on a bearing of 10&#xB0;26&#x2032;55&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328528" lims:id="1328528" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of three thousand three hundred forty-three square meters and seven tenths (3&#xA0;343.7&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328529" lims:id="1328529" level="4">
+          <TitleText>PARCEL 7 &#x2014; Part of lot 5&#xA0;097&#xA0;010</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328530" lims:id="1328530" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND AND TEN (Pt. lot 5&#xA0;097&#xA0;010), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328531" lims:id="1328531" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the west corner of lot 5&#xA0;097&#xA0;010, bounded: westwardly, by a part of lot 5&#xA0;097&#xA0;005, measuring along said limit one hundred and nineteen metres and forty-three hundredths (119.43&#xA0;m) on a bearing of 10&#xB0;27&#x2032;02&#x2033;, northeasterly, by a part of lot 5&#xA0;097&#xA0;010 measuring along said boundary one hundred and fifty-one metres and forty-four hundredths (151.44&#xA0;m) on a bearing of 136&#xB0;58&#x2032;57&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;010, measuring along said boundary one metre and twenty-four hundredths (1.24&#xA0;m) on a bearing of 208&#xB0;00&#x2032;54&#x2033;, northeasterly, by a part of lot 5&#xA0;097&#xA0;010, measuring along said limit seventy-six metres and thirteen hundredths (76.13&#xA0;m) on a bearing of 136&#xB0;44&#x2032;57&#x2033;, eastward, by a part of lot 5&#xA0;097&#xA0;003, measuring along said limit one hundred and fourteen metres and thirty hundredths (114.30&#xA0;m) on a bearing of 190&#xB0;21&#x2032;04&#x2033;, easterly, through a part of lot 5&#xA0;097&#xA0;003, measuring along said boundary six metres (6.00&#xA0;m) along an arc of a circle having a radius of seventy-one metres and sixteen hundredths (71.16&#xA0;m), southwesterly, through a part of lot 5&#xA0;097&#xA0;001 measuring along said boundary one hundred and forty-eight metres and sixty-eight hundredths (148.68&#xA0;m) on a bearing of 317&#xB0;22&#x2032;53&#x2033;, northwesterly, by a part of lot 5&#xA0;097&#xA0;010, measuring along said boundary one metre and thirty hundredths (1.30&#xA0;m) on a bearing of 48&#xB0;15&#x2032;33&#x2033;, westwardly, by a part of lot 5&#xA0;097&#xA0;010, measuring along said limit nine metres and ten hundredths (9.10&#xA0;m) on a bearing of 11&#xB0;01&#x2032;29&#x2033;, southwardly, by a part of lot 5&#xA0;097&#xA0;010, measuring along said limit three metres and fifty-two hundredths (3.52&#xA0;m) on a bearing of 256&#xB0;58&#x2032;30&#x2033;, southeasterly, through a part of lot 5&#xA0;097&#xA0;010, measuring along said boundary two metres and fourteen hundredths (2.14&#xA0;m) on a bearing of 240&#xB0;41&#x2032;36&#x2033;, southeasterly, through a part of lot 5&#xA0;097&#xA0;010, measuring along said boundary three metres and fifty-four hundredths (3.54&#xA0;m) on a bearing of 217&#xB0;44&#x2032;56&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said boundary seventy-two metres and seventy-five hundredths (72.75&#xA0;m) on a bearing of 317&#xB0;22&#x2032;53&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328532" lims:id="1328532" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of twenty-one thousand eight hundred and ninety-one square metres (21&#xA0;891.0&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328533" lims:id="1328533" level="4">
+          <TitleText>PARCEL 8 &#x2014; Part of lot 5&#xA0;097&#xA0;005</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328534" lims:id="1328534" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND AND FIVE (Pt. lot 5&#xA0;097&#xA0;005), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328535" lims:id="1328535" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the west corner of lot 5&#xA0;097&#xA0;005, bounded: westwardly, by lots 4&#xA0;920&#xA0;893, 4&#xA0;921 467 and a part of lot 5&#xA0;097&#xA0;009, measuring along said boundary one hundred nineteen meters and twenty-two hundredths (119.22&#xA0;m) on a bearing of 10&#xB0;26&#x2032;56&#x2033;, northeasterly, by a part of lot 5&#xA0;097&#xA0;002, measuring along said boundary twenty-five meters and four hundredths (25.04&#xA0;m) on a bearing of 136&#xB0;59&#x2032;01&#x2033;, easterly by a part of lot 5&#xA0;097&#xA0;010, measuring along said limit one hundred nineteen meters and forty-four hundredths (119.44&#xA0;m) on a bearing of 190&#xB0;26&#x2032;40&#x2033;, southwesterly by lot 5&#xA0;097&#xA0;000, measuring along said limit twenty-five meters and sixteen hundredths (25.16&#xA0;m) on a bearing of 317&#xB0;22&#x2032;54&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328536" lims:id="1328536" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two thousand three hundred and ninety-nine square meters and seven tenths (2&#xA0;399.7&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328537" lims:id="1328537" level="4">
+          <TitleText>PARCEL 9 &#x2014; Part of lot 5&#xA0;097&#xA0;000</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328538" lims:id="1328538" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND (Pt. lot 5&#xA0;097&#xA0;000), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328539" lims:id="1328539" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 5&#xA0;097&#xA0;000, bounded: northeasterly, by a part of lot 5&#xA0;097&#xA0;005, measuring along said limit twenty-five metres and seventeen hundredths (25.17&#xA0;m) on a bearing of 137&#xB0;22&#x2032;54&#x2033;, easterly, by a part of lot 5&#xA0;097&#xA0;001, measuring along said limit one hundred and twenty-one metres and forty-nine hundredths (121.49&#xA0;m) on a bearing of 190&#xB0;26&#x2032;55&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;000, measuring along said limit twelve metres and forty-four hundredths (12.44&#xA0;m) on a bearing of 217&#xB0;26&#x2032;37&#x2033;, southeasterly, by a part of lot 5&#xA0;097&#xA0;000, measuring along said limit five metres and eighty-nine hundredths (5.89&#xA0;m) on a bearing of 253&#xB0;16&#x2032;42&#x2033;, southwesterly, by a part of lot 5&#xA0;097&#xA0;000, measuring along said limit nine metres and seventy-four hundredths (9.74&#xA0;m) on a bearing of 302&#xB0;27&#x2032;49&#x2033;, westerly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit four metres and forty-eight hundredths (4.48&#xA0;m) along an arc of a circle of fifty metres and sixty-four hundredths (50.64&#xA0;m) radius, westerly, by part of lots 6&#xA0;430&#xA0;840 and 4&#xA0;920&#xA0;891, measuring along said limit one hundred forty-two metres and twenty-seven hundredths (142.27&#xA0;m) on a bearing of 10&#xB0;26&#x2032;59&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328540" lims:id="1328540" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two thousand eight hundred and six square metres and three tenths (2&#xA0;806.3&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328541" lims:id="1328541" level="4">
+          <TitleText>PARCEL 10 &#x2014; Part of lot 6&#xA0;430&#xA0;840</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328542" lims:id="1328542" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot SIX MILLION FOUR HUNDRED AND THIRTY THOUSAND EIGHT HUNDRED AND FORTY (Pt. lot 6&#xA0;430&#xA0;840), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328543" lims:id="1328543" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the south corner of lot 4&#xA0;920&#xA0;891, bounded: eastwardly, by a part of lot 5&#xA0;097&#xA0;000, measuring along said limit nineteen metres and ninety hundredths (19.90&#xA0;m) on a bearing of 190&#xB0;26&#x2032;59&#x2033;, eastwardly, by a part of lot 5&#xA0;097&#xA0;000, measuring along said limit four metres and forty-eight hundredths (4.48&#xA0;m) along an arc of a circle having a radius of fifty metres and sixty-four hundredths (50.64&#xA0;m), southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit six metres and sixty-one hundredths (6.61&#xA0;m) on a bearing of 302&#xB0;19&#x2032;35&#x2033;, southwesterly, through a part of lot 6&#xA0;430&#xA0;840, measuring along said boundary one metre and sixty-two hundredths (1.62&#xA0;m) on a bearing of 298&#xB0;53&#x2032;26&#x2033;, southwesterly, through a part of lot 6&#xA0;430&#xA0;840 measuring along said limit fifty-seven metres and thirty-seven hundredths (57.37&#xA0;m) on a bearing of 302&#xB0;20&#x2032;22&#x2033;, northerly, by a part of lot 4&#xA0;920&#xA0;891, measuring along said limit sixty metres and seventy-one hundredths (60.71&#xA0;m) on a bearing of 100&#xB0;26&#x2032;55&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328544" lims:id="1328544" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of seven hundred and forty square metres (740.0&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328545" lims:id="1328545" level="4">
+          <TitleText>PARCEL 11 &#x2014; Part of lot 6&#xA0;430&#xA0;840</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328546" lims:id="1328546" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot SIX MILLION FOUR HUNDRED AND THIRTY THOUSAND EIGHT HUNDRED AND FORTY (Pt. lot 6&#xA0;430&#xA0;840), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328547" lims:id="1328547" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the south corner of lot 4&#xA0;920&#xA0;892, bounded: eastwardly, by a part of lot 4&#xA0;920&#xA0;891, measuring along said limit thirty-five metres and forty-eight hundredths (35.48&#xA0;m) on a bearing of 190&#xB0;26&#x2032;55&#x2033;, southwestwardly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit thirty-one metres and twenty-seven hundredths (31.27&#xA0;m) on a bearing of 302&#xB0;28&#x2032;03&#x2033;, northwesterly, through a part of lot 6&#xA0;430&#xA0;840, measuring along said boundary ninety-two hundredths of a metre (0.92&#xA0;m) on a bearing of 25&#xB0;35&#x2032;29&#x2033;, southwesterly, through a part of lot 6&#xA0;430&#xA0;840, measuring along said boundary nine metres and eighty-four hundredths (9.84&#xA0;m) on a bearing of 298&#xB0;09&#x2032;24&#x2033;, southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said boundary twenty-six metres and seventy-nine hundredths (26.79&#xA0;m) on a bearing of 304&#xB0;10&#x2032;14&#x2033;, southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit seven metres and twenty hundredths (7.20&#xA0;m) on a bearing of 299&#xB0;18&#x2032;24&#x2033;, southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit six metres and seventy-nine hundredths (6.79&#xA0;m) on a bearing of 297&#xB0;11&#x2032;43&#x2033;, southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit six metres and twenty-eight hundredths (6.28&#xA0;m) on a bearing of 293&#xB0;55&#x2032;10&#x2033;, southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit twenty-three metres and ninety-six hundredths (23.96&#xA0;m) on a bearing of 303&#xB0;48&#x2032;50&#x2033;, southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit six metres and eight hundredths (6.08&#xA0;m) on a bearing of 309&#xB0;39&#x2032;37&#x2033;, southwesterly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit two metres and sixty-eight hundredths (2.68&#xA0;m) on a bearing of 316&#xB0;36&#x2032;31&#x2033;, southwesterly, through a part of lot 6&#xA0;430&#xA0;840, measuring along said limit eight metres and ninety-nine hundredths (8.99&#xA0;m) on a bearing of 321&#xB0;31&#x2032;24&#x2033;, southwesterly, through a part of lot 6&#xA0;430&#xA0;840 measuring along said limit three metres and fifty-seven hundredths (3.57&#xA0;m) on a bearing of 326&#xB0;51&#x2032;34&#x2033;, northerly, by a part of lot 4&#xA0;920&#xA0;892, measuring along said limit one hundred and twenty-two metres and twenty-seven hundredths (122.27&#xA0;m) on a bearing of 109&#xB0;28&#x2032;23&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328548" lims:id="1328548" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two thousand four hundred and fifty-four square metres and five tenths (2&#xA0;454.5&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328549" lims:id="1328549" level="4">
+          <TitleText>PARCEL 12 &#x2014; Part of lot 4&#xA0;920&#xA0;891</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328550" lims:id="1328550" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY THOUSAND EIGHT HUNDRED AND NINETY-ONE (Pt. lot 4&#xA0;920&#xA0;891), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328551" lims:id="1328551" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 4&#xA0;920&#xA0;891, bounded : northeasterly, by a part of lot 4&#xA0;920&#xA0;892, measuring along said limit seventy-one metres and seventy-seven hundredths (71.77&#xA0;m) on a bearing of 100&#xB0;26&#x2032;55&#x2033;, northeasterly, by lot 4&#xA0;920&#xA0;893, measuring along said limit twenty-four metres and sixty-one hundredths (24.61&#xA0;m) on a bearing of 137&#xB0;23&#x2032;20&#x2033;, eastwardly, by lot 5&#xA0;097&#xA0;000, measuring along said limit one hundred and twenty-two metres and thirty-eight hundredths (122.38&#xA0;m) on a bearing of 190&#xB0;26&#x2032;55&#x2033;, southwardly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit sixty metres and seventy-one hundredths (60.71&#xA0;m) on a bearing of 280&#xB0;26&#x2032;54&#x2033;, southwesterly, by a part of lot 4&#xA0;920&#xA0;891, measuring along said limit thirty-three metres and ten hundredths (33.10&#xA0;m) on a bearing of 302&#xB0;22&#x2032;9&#x2033;, westwardly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit thirty-five metres and fourty-eight hundredths (35.48&#xA0;m) on a bearing of 10&#xB0;26&#x2032;55&#x2033;, westwardly, by lot 4&#xA0;920&#xA0;892, measuring along said limit eighty-nine metres and thirty hundredths (89.30&#xA0;m) on a bearing of 10&#xB0;26&#x2032;55&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328552" lims:id="1328552" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of twelve thousand two hundred and four square meters and forty-four hundredths (12&#xA0;204.44&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328553" lims:id="1328553" level="4">
+          <TitleText>PARCEL 13 &#x2014; Part of lot 4&#xA0;920&#xA0;892</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328554" lims:id="1328554" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY THOUSAND EIGHT HUNDRED AND NINETY-TWO (Pt. lot 4&#xA0;920&#xA0;892), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328555" lims:id="1328555" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the south corner of lot 4&#xA0;920&#xA0;892, bounded: southerly, by a part of lot 6&#xA0;430&#xA0;840, measuring along said limit one hundred and twenty-two metres and twenty-seven hundredths (122.27&#xA0;m) on a bearing of 289&#xB0;28&#x2032;23&#x2033;, southwesterly, by a part of lot 4&#xA0;920&#xA0;892, measuring along said boundary three metres and sixty-three hundredths (3.63&#xA0;m) on a bearing of 326&#xB0;51&#x2032;34&#x2033;, westerly, by a part of lot 4&#xA0;920&#xA0;892, measuring along said boundary seven metres and sixteen hundredths (7.16&#xA0;m) on a bearing of 343&#xB0;08&#x2032;27&#x2033;, westerly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit one hundred and fifty-four metres and twenty-seven hundredths (154.27&#xA0;m) on a bearing of 19&#xB0;18&#x2032;01&#x2033;, northerly, by a part of lot 4&#xA0;920&#xA0;892, measuring along said limit two metres and four hundredths (2.04&#xA0;m) on a bearing of 269&#xB0;53&#x2032;10&#x2033;, northwesterly, by a part of lot 4&#xA0;920&#xA0;892, measuring along said limit ten metres and eighty-seven hundredths (10.87&#xA0;m) on a bearing of 27&#xB0;03&#x2032;19&#x2033;, southwesterly, by a part of lot 4&#xA0;920&#xA0;892, measuring along said limit three metres and forty-seven hundredths (3.47&#xA0;m) on a bearing of 301&#xB0;46&#x2032;24&#x2033;, westward, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit eight metres and forty-two hundredths (8.42&#xA0;m) on a bearing of 19&#xB0;18&#x2032;01&#x2033;, northerly, by lot 4&#xA0;921&#xA0;468, measuring along said limit twenty-nine metres and forty-two hundredths (29.42&#xA0;m) on a bearing of 109&#xB0;33&#x2032;35&#x2033;, northeasterly, through lot 4&#xA0;921&#xA0;467 and part of lot 5&#xA0;097&#xA0;009, measuring along said boundary one hundred seventy-eight metres and ten hundredths (178.10&#xA0;m) on a bearing of 137&#xB0;22&#x2032;54&#x2033;, southerly, through part of lot 4&#xA0;920&#xA0;891, measuring along said limit seventy-one metres and seventy-seven hundredths (71.77&#xA0;m) on a bearing of 280&#xB0;26&#x2032;55&#x2033;, easterly, by a part of lot 4&#xA0;920&#xA0;891, measuring along said limit eighty-nine metres and thirty-one hundredths (89.31&#xA0;m) on a bearing of 190&#xB0;26&#x2032;55&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328556" lims:id="1328556" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of twenty-one thousand four hundred and fifty-three square metres (21&#xA0;453.0&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328557" lims:id="1328557" level="4">
+          <TitleText>PARCEL 14 &#x2014; Part of lot 5&#xA0;097&#xA0;009</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328558" lims:id="1328558" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION NINETY-SEVEN THOUSAND AND NINE (Pt. lot 5&#xA0;097&#xA0;009), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328559" lims:id="1328559" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 5&#xA0;097&#xA0;009, bounded : northeasterly, by a part of lot 5&#xA0;097&#xA0;009, measuring along said limit thirty metres and sixty-nine hundredths (30.69&#xA0;m) on a bearing of 136&#xB0;24&#x2032;8&#x2033;, northeasterly, by a part of lot 5&#xA0;097&#xA0;009, measuring along said limit sixty metres and thirty-four hundredths (60.34&#xA0;m) on a bearing of 137&#xB0;37&#x2032;40&#x2033;, northeasterly, by a part of lot 5&#xA0;097&#xA0;009, measuring along said boundary six metres and eighty-three hundredths (6.83&#xA0;m) on a bearing of 130&#xB0;23&#x2032;48&#x2033;, northeasterly, by a part of lot 5&#xA0;097&#xA0;009, measuring along said boundary one hundred and sixteen metres and forty-two hundredths (116.42&#xA0;m) on a bearing of 136&#xB0;59&#x2032;02&#x2033;, easterly, by lot 5&#xA0;097&#xA0;005, measuring along said boundary thirteen metres and one hundredth (13.01&#xA0;m) on a bearing of 190&#xB0;26&#x2032;55&#x2033;, southerly, by lot 4&#xA0;921&#xA0;467, measuring along said boundary ninety-one metres and forty-four hundredths (91.44&#xA0;m) on a bearing of 280&#xB0;26&#x2032;55&#x2033;, easterly, by lot 4&#xA0;921&#xA0;467, measuring along said boundary thirty-seven metres and forty-eight hundredths (37.48&#xA0;m) on a bearing of 190&#xB0;26&#x2032;55&#x2033;, southwesterly, through lots 4&#xA0;920&#xA0;892 and 4&#xA0;921&#xA0;468, measuring along said limit one hundred and twenty-one metres and sixty-five hundredths (121.65&#xA0;m) on a bearing of 317&#xB0;23&#x2032;59&#x2033;, westerly, through a part of lot 4&#xA0;921&#xA0;357, measuring along said limit one hundred and three metres and seventy-eight hundredths (103.78&#xA0;m) on a bearing of 19&#xB0;18&#x2032;2&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328560" lims:id="1328560" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of fourteen thousand seven hundred and thirty-four square metres and eighty-five hundredths (14&#xA0;734.85&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328561" lims:id="1328561" level="4">
+          <TitleText>PARCEL 15 &#x2014; Part of lot 4&#xA0;921&#xA0;357</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328562" lims:id="1328562" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND THREE HUNDRED AND FIFTY-SEVEN (Pt. lot 4&#xA0;921&#xA0;357), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328563" lims:id="1328563" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the southerly corner of lot 4&#xA0;921&#xA0;357, bounded: in a southwesterly direction, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit eleven metres and thirty-eight hundredths (11.38&#xA0;m) on a bearing of 317&#xB0;19&#x2032;44&#x2033;, in a westerly direction, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary two metres and fifteen hundredths (2.15&#xA0;m) on a bearing of 19&#xB0;06&#x2032;43&#x2033;, northerly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary one metre and fifty-two hundredths (1.52&#xA0;m) on a bearing of 109&#xB0;13&#x2032;19&#x2033;, northwesterly, through a part of lot 4&#xA0;921&#xA0;357, measuring along said limit thirteen metres and thirty-five hundredths (13.35&#xA0;m) on a bearing of 24&#xB0;05&#x2032;32&#x2033;, westerly, through a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary forty-seven metres and eighty-one hundredths (47.81&#xA0;m) on a bearing of 19&#xB0;11&#x2032;24&#x2033;, southwesterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary two metres and sixty-nine hundredths (2.69&#xA0;m) on a bearing of 293&#xB0;35&#x2032;16&#x2033;, westerly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary three metres and fifty-nine hundredths (3.59&#xA0;m) on a bearing of 21&#xB0;25&#x2032;32&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary sixteen metres and thirty-seven hundredths (16.37&#xA0;m) on a bearing of 25&#xB0;28&#x2032;27&#x2033;, measuring along said boundary nineteen metres and ninety-four hundredths (19.94&#xA0;m) on a bearing of 32&#xB0;15&#x2032;59&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary four metres and forty-seven hundredths (4.47&#xA0;m) on a bearing of 140&#xB0;27&#x2032;33&#x2033;, easterly, by a part of lot 5&#xA0;097&#xA0;009, measuring along said limit one hundred and three metres and seventy-nine hundredths (103.79&#xA0;m) on a bearing of 199&#xB0;18&#x2032;02&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328564" lims:id="1328564" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of eight hundred and nine square metres and five tenths (809.5&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328565" lims:id="1328565" level="4">
+          <TitleText>PARCEL 16 &#x2014; Part of lot 4&#xA0;921&#xA0;357</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328566" lims:id="1328566" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND THREE HUNDRED AND FIFTY-SEVEN (Pt. lot 4&#xA0;921&#xA0;357), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328567" lims:id="1328567" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the west corner of lot 4&#xA0;921&#xA0;357, measuring along the northwest limit of said lot a distance of twenty-seven meters and eighty-one hundredths (27.81&#xA0;m) on a bearing of 19&#xB0;18&#x2032;01&#x2033;, to the point of commencement, bounded: northwesterly, by parts of lots 4&#xA0;921&#xA0;034 and 4&#xA0;921&#xA0;033, measuring along said limit fifty-four meters and fifty hundredths (54.50&#xA0;m) on a bearing of 19&#xB0;40&#x2032;06&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;033 measuring along said boundary forty-eight meters and sixty-seven hundredths (48.67&#xA0;m) along an arc of a circle of four hundred fifty-four meters and ninety-six hundredths (454.96&#xA0;m) radius, northeasterly by part of lot 4&#xA0;921&#xA0;357 measuring along said limit thirty-two meters and fifty-six hundredths (32.56&#xA0;m) on a bearing of 140&#xB0;03&#x2032;09&#x2033;, southeasterly by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit fifty meters and forty-two hundredths (50.42&#xA0;m) on a bearing of 212&#xB0;14&#x2032;07&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit nineteen meters and fourteen hundredths (19.14&#xA0;m) on a bearing of 213&#xB0;29&#x2032;17&#x2033;, southeasterly by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit four meters and eighteen hundredths (4.18&#xA0;m) on a bearing of 231&#xB0;12&#x2032;42&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit four meters and eighty-two hundredths (4.82&#xA0;m) on a bearing of 225&#xB0;01&#x2032;31&#x2033;, southeasterly by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit eight meters and forty-seven hundredths (8.47&#xA0;m) on a bearing of 248&#xB0;44&#x2032;28&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit five meters and seventy-seven hundredths (5.77&#xA0;m) on a bearing of 234&#xB0;27&#x2032;24&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;357 measuring along said boundary seventy-one hundredths of a meter (0.71&#xA0;m) on a bearing of 229&#xB0;10&#x2032;16&#x2033;, southerly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary forty-nine hundredths of a meter (0.49&#xA0;m) on a bearing of 289&#xB0;25&#x2032;43&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328568" lims:id="1328568" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of one thousand nine hundred and twenty-seven square meters and one tenth (1&#xA0;927.1&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328569" lims:id="1328569" level="4">
+          <TitleText>PARCEL 17 &#x2014; Part of lot 4&#xA0;921&#xA0;033</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328570" lims:id="1328570" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND AND THIRTY-THREE (Pt. lot 4&#xA0;921&#xA0;033), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328571" lims:id="1328571" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the southeast corner of lot 4&#xA0;921&#xA0;033, bounded: eastwardly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary fifty metres and six hundredths (50.06&#xA0;m) on a bearing of 19&#xB0;42&#x2032;03&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary thirty-eight metres and ninety-eight hundredths (38.98&#xA0;m) along an arc of a circle of four hundred and fifty-four metres and ninety-six hundredths (454.96&#xA0;m) radius, northeasterly, through a part of lot 4&#xA0;921&#xA0;033, measuring along said limit nine hundredths of a metre (0.09&#xA0;m) on a bearing of 233&#xB0;40&#x2032;08&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;033, measuring along said boundary eight metres and fifty-four hundredths (8.54&#xA0;m) along an arc of a circle of six metres and two hundredths (6.02&#xA0;m) radius, northeasterly, through part of lot 4&#xA0;921&#xA0;033, measuring along said limit forty-three metres (43.00&#xA0;m) along an arc of a circle of one hundred twenty metres and thirteen hundredths (120.13&#xA0;m) radius, northwesterly, through part of lot 4&#xA0;921&#xA0;033, measuring along said boundary twenty metres and thirteen hundredths (20.13&#xA0;m) on a bearing of 224&#xB0;14&#x2032;20&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;033, measuring along said boundary thirty metres and eighty-one hundredths (30.81&#xA0;m) on a bearing of 226&#xB0;30&#x2032;56&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;033, measuring along said limit thirty metres and forty-eight hundredths (30.48&#xA0;m) on a bearing of 225&#xB0;58&#x2032;18&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;033, measuring along said limit eight metres and six hundredths (8.06&#xA0;m) on a bearing of 222&#xB0;19&#x2032;28&#x2033;, southwesterly, through lot 4&#xA0;921&#xA0;060, measuring along said boundary sixty-two metres and thirty-six hundredths (62.36&#xA0;m) on a bearing of 137&#xB0;22&#x2032;33&#x2033;, easterly, through a part of Lot 4&#xA0;921&#xA0;034 measuring along said boundary sixteen metres and nineteen hundredths (16.19&#xA0;m) on a bearing of 19&#xB0;00&#x2032;17&#x2033;, southerly, by a part of lot 4&#xA0;921&#xA0;034, measuring along said boundary thirty metres and forty-eight hundredths (30.48&#xA0;m) on a bearing of 109&#xB0;35&#x2032;51&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328572" lims:id="1328572" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of six thousand two hundred and thirty-five square metres and nine tenths (6&#xA0;235.9&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328573" lims:id="1328573" level="4">
+          <TitleText>PARCEL 18 &#x2014; Part of lot 4&#xA0;921&#xA0;034</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328574" lims:id="1328574" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND AND THIRTY-FOUR (Pt. lot 4&#xA0;921&#xA0;034), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328575" lims:id="1328575" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 4&#xA0;921&#xA0;034, bounded: northerly, by a part of lot 4&#xA0;921&#xA0;033, measuring along said boundary thirty metres and forty-eight hundredths (30.48&#xA0;m) on a bearing of 109&#xB0;35&#x2032;51&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary four metres and forty-four hundredths (4.44&#xA0;m) on a bearing of 199&#xB0;18&#x2032;01&#x2033;, southwesterly, by a part of lot 4&#xA0;921&#xA0;034, measuring along said boundary twenty metres and forty-three hundredths (20.43&#xA0;m) on a bearing of 289&#xB0;25&#x2032;43&#x2033;, southeasterly, through a part of lot 4&#xA0;921&#xA0;034, measuring along said limit sixteen metres and ninety-five hundredths (16.95&#xA0;m) on a bearing of 199&#xB0;16&#x2032;31&#x2033;, southwesterly, through lot 4&#xA0;921&#xA0;060, measuring along said boundary eleven metres and thirty hundredths (11.30&#xA0;m) on a bearing of 317&#xB0;22&#x2032;54&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;033, measuring along said boundary sixteen metres and nineteen hundredths (16.19&#xA0;m) on a bearing of 19&#xB0;00&#x2032;17&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328576" lims:id="1328576" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two hundred seventy-nine square metres and five-tenths (279.5&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328577" lims:id="1328577" level="4">
+          <TitleText>PARCEL 19 &#x2014; Part of lot 4&#xA0;921&#xA0;034</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328578" lims:id="1328578" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND AND THIRTY-FOUR (Pt. lot 4&#xA0;921&#xA0;034), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328579" lims:id="1328579" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the south corner of Lot 4&#xA0;921&#xA0;034, bounded: eastwardly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary seven metres and fifty-seven hundredths (7.57&#xA0;m) on a bearing of 19&#xB0;18&#x2032;01&#x2033;, northwardly, by a part of lot 4&#xA0;921&#xA0;034, measuring along said boundary fourteen metres and forty-one hundredths (14.41&#xA0;m) on a bearing of 289&#xB0;45&#x2032;05&#x2033;, southwesterly, by lot 4&#xA0;921&#xA0;060, measuring along said boundary sixteen metres and thirty-three hundredths (16.33&#xA0;m) on a bearing of 317&#xB0;22&#x2032;54&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328580" lims:id="1328580" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of fifty-four square metres and six-tenths (54.6&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328581" lims:id="1328581" level="4">
+          <TitleText>PARCEL 20 &#x2014; Part of lot 4&#xA0;921&#xA0;357</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328582" lims:id="1328582" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND THREE HUNDRED AND FIFTY-SEVEN (Pt. lot 4&#xA0;921&#xA0;357), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328583" lims:id="1328583" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the west corner of lot 4&#xA0;921&#xA0;357, bounded : westerly, by a part of lot 4&#xA0;921&#xA0;034, measuring along said boundary seven and fifty-seven hundredths metres (7.57&#xA0;m) on a bearing of 19&#xB0;18&#x2032;02&#x2033;, northerly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary fifty-two hundredths metres (0.52&#xA0;m) on a bearing of 119&#xB0;45&#x2032;5&#x2033;, northerly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit nine metres and twenty-five hundredths (9.25&#xA0;m) on a bearing of 119&#xB0;45&#x2032;5&#x2033;, easterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said limit nine metres and thirty-two hundredths (9.32&#xA0;m) on a bearing of 161&#xB0;55&#x2032;12&#x2033;, easterly, through a part of lot 4&#xA0;921&#xA0;357, measuring along said limit five metres and fifty-seven hundredths (5.57&#xA0;m) on a bearing of 167&#xB0;55&#x2032;55&#x2033;, southeasterly, through a part of lot 4&#xA0;921&#xA0;357, measuring along said limit three metres and twenty-eight hundredths (3.28&#xA0;m) on a bearing of 28&#xB0;52&#x2032;29&#x201D;, southeasterly, from a part of lot 4&#xA0;921&#xA0;357, measuring along said limit three metres and twenty-seven hundredths (3.27&#xA0;m) on a bearing of 208&#xB0;52&#x2032;4&#x2033;, southwesterly, through lot 4&#xA0;921 496, measuring along said limit twenty metres and four hundredths (20.04&#xA0;m) on a bearing of 317&#xB0;19&#x2032;14&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328584" lims:id="1328584" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of one hundred and fifty-four square metres and six tenths (154.6&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328585" lims:id="1328585" level="4">
+          <TitleText>PARCEL 21 &#x2014; Part of lot 4&#xA0;921&#xA0;496</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328586" lims:id="1328586" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND FOUR HUNDRED AND NINETY-SIX (Pt. lot 4&#xA0;921&#xA0;496), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328587" lims:id="1328587" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 4&#xA0;921&#xA0;496, bounded: northeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary twenty metres and four hundredths (20.04&#xA0;m) on a bearing of 137&#xB0;19&#x2032;14&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary fifty hundredths of a metre (0.50&#xA0;m) on a bearing of 211&#xB0;52&#x2032;40&#x2033;, northerly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary eighty-three hundredths of a metre (0.83&#xA0;m) on a bearing of 101&#xB0;30&#x2032;02&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary forty hundredths of a metre (0.40&#xA0;m) on a bearing of 137&#xB0;19&#x2032;14&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary fifty-three metres and ninety-four hundredths (53.94&#xA0;m) on a bearing of 199&#xB0;12&#x2032;37&#x2033;, southeasterly through a part of lot 4&#xA0;921&#xA0;496, measuring along said limit twenty-eight metres and fifty-nine hundredths (28.59&#xA0;m) on a bearing of 199&#xB0;42&#x2032;21&#x2033;, southeasterly, through a part of lot 4&#xA0;921&#xA0;496, measuring along said limit nine metres and sixty-two hundredths (9.62&#xA0;m) on a bearing of 196&#xB0;45&#x2032;56&#x201D;, southeasterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit twelve metres and fifty-seven hundredths (12.57&#xA0;m) on a bearing of 201&#xB0;24&#x2032;10&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit twenty-nine metres and thirty-three hundredths (29.33&#xA0;m) on a bearing of 200&#xB0;13&#x2032;23&#x201D;, southeasterly, through a part of lot 4&#xA0;921&#xA0;496, measuring along said limit five metres and one hundredth (5.01&#xA0;m) on a bearing of 207&#xB0;08&#x2032;18&#x2033;, southeasterly, through a part of lot 4&#xA0;921&#xA0;496, measuring along said limit eight metres and sixty hundredths (8.60&#xA0;m) on a bearing of 239&#xB0;44&#x2032;11&#x201D;, southeasterly, through a part of lot 4&#xA0;921&#xA0;496, measuring along said limit eleven metres and two hundredths (11.02&#xA0;m) on a bearing of 249&#xB0;33&#x2032;22&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary seven metres and sixty-six hundredths (7.66&#xA0;m) on a bearing of 212&#xB0;38&#x2032;19&#x2033;, easterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary sixteen metres and seventy hundredths (16.70&#xA0;m) on a bearing of 200&#xB0;03&#x2032;56&#x2033;, easterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit five metres and forty-eight hundredths (5.48&#xA0;m) on a bearing of 184&#xB0;52&#x2032;14&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit two metres and nine hundredths (2.09&#xA0;m) on a bearing of 251&#xB0;02&#x2032;42&#x201D;, southeasterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit three metres and eighty-nine hundredths (3.89&#xA0;m) on a bearing of 216&#xB0;11&#x2032;13&#x2033;, westerly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit one hundred ninety-seven metres and two hundredths (197.02&#xA0;m) on a bearing of 19&#xB0;18&#x2032;02&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328588" lims:id="1328588" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two thousand eight hundred and ninety-six square metres and seven tenths (2&#xA0;896.7&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328589" lims:id="1328589" level="4">
+          <TitleText>PARCEL 22 &#x2014; Part of lot 4&#xA0;921&#xA0;496</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328590" lims:id="1328590" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND FOUR HUNDRED AND NINETY-SIX (Pt. lot 4&#xA0;921&#xA0;496), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328591" lims:id="1328591" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the east corner of lot 4&#xA0;921&#xA0;496, bounded: eastwardly, by lot 4&#xA0;921&#xA0;468 and a part of lot 4&#xA0;920&#xA0;892, measuring along said limit twenty-four metres and three hundredths (24.03&#xA0;m) on a bearing of 199&#xB0;18&#x2032;01&#x2033;, southwesterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit ten metres and twenty hundredths (10.20&#xA0;m) on a bearing of 301&#xB0;46&#x2032;24&#x2033;, westerly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit twenty-two metres and eighty-nine hundredths (22.89&#xA0;m) on a bearing of 19&#xB0;06&#x2032;45&#x2033;, northerly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit one metre and fifty-nine hundredths (1.59&#xA0;m) on a bearing of 103&#xB0;10&#x2032;51&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary one metre and forty-six hundredths (1.46&#xA0;m) on a bearing of 51&#xB0;37&#x2032;20&#x2033;, westerly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary one metre and sixteen hundredths (1.16&#xA0;m) on a bearing of 13&#xB0;48&#x2032;28&#x2033;, southwesterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary two metres and sixty-six hundredths (2.66&#xA0;m) on a bearing of 320&#xB0;54&#x2032;57&#x2033;, westerly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary thirty-three hundredths of a metre (0.33&#xA0;m) on a bearing of 19&#xB0;06&#x2032;43&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;357, measuring along said boundary eleven metres and thirty-eight hundredths (11.38&#xA0;m) on a bearing of 137&#xB0;19&#x2032;14&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328592" lims:id="1328592" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two hundred and forty-nine square metres and one-tenth (249.1&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328593" lims:id="1328593" level="4">
+          <TitleText>PARCEL 23 &#x2014; Part of lot 4&#xA0;921&#xA0;496</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328594" lims:id="1328594" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND FOUR HUNDRED AND NINETY-SIX (Pt. lot 4&#xA0;921&#xA0;496), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328595" lims:id="1328595" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the west corner of lot 4&#xA0;920&#xA0;892, thence on a bearing of 19&#xB0;18&#x2032;01&#x2033; for a distance of seven metres and ninety-seven hundredths (7.97&#xA0;m), the point of commencement, bounded: westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary fifty-two hundredths of a metre (0.52&#xA0;m) on a bearing of 343&#xB0;08&#x2032;27&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary five metres and nineteen hundredths (5.19&#xA0;m) on a bearing of 4&#xB0;53&#x2032;40&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary five metres and seventy-eight hundredths (5, (5.78&#xA0;m) on a bearing of 16&#xB0;27&#x2032;52&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary thirteen metres and sixty-six hundredths (13.66&#xA0;m) on a bearing of 20&#xB0;10&#x2032;22&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary seven metres and fifty-four hundredths (7.54&#xA0;m) on a bearing of 343&#xB0;13&#x2032;27&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;496 measuring along said boundary three metres and five hundredths (3.05&#xA0;m) on a bearing of 201&#xB0;20&#x2032;03&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary four metres and nineteen hundredths (4.19&#xA0;m) on a bearing of 15&#xB0;33&#x2032;31&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary two metres and fifty-two hundredths (2.52&#xA0;m) on a bearing of 6&#xB0;51&#x2032;26&#x2033;, southwesterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit one metre and eleven hundredths (1.11&#xA0;m) on a bearing of 293&#xB0;39&#x2032;53&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary three metres and ninety-eight hundredths (3.98&#xA0;m) on a bearing of 8&#xB0;07&#x2032;04&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary three metres and sixteen hundredths (3.16&#xA0;m) on a bearing of 15&#xB0;33&#x2032;26&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary two metres and nineteen hundredths (2.19&#xA0;m) on a bearing of 57&#xB0;11&#x2032;11&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary one metre and sixty-five hundredths (1.65&#xA0;m) on a bearing of 39&#xB0;44&#x2032;20&#x2033;, westwardly, through a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary two metres and nine hundredths (2.09&#xA0;m) on a bearing of 6&#xB0;40&#x2032;34&#x2033;, southwesterly, by a portion of lot 4&#xA0;921&#xA0;496, measuring along said boundary two metres and twenty-two hundredths (2.22&#xA0;m) on a bearing of 328&#xB0;58&#x2032;44&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary four metres and six hundredths (4.06&#xA0;m) on a bearing of 20&#xB0;27&#x2032;19&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit nine metres and twenty-nine hundredths (9.29&#xA0;m) on a bearing of 14&#xB0;26&#x2032;30&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary sixty-six metres and four hundredths (66.04&#xA0;m) on a bearing of 19&#xB0;23&#x2032;12&#x2033;, westwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said boundary sixteen metres and eighty-seven hundredths (16.87&#xA0;m) on a bearing of 18&#xB0;40&#x2032;16&#x2033;, northerly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit ten metres and fifty-four hundredths (10.54&#xA0;m) on a bearing of 89&#xB0;53&#x2032;10&#x2033;, easterly, by a part lot 4&#xA0;920&#xA0;892, measuring along said limit one hundred and fifty-four metres and twenty-seven hundredths (154.27&#xA0;m) on a bearing of 199&#xB0;18&#x2032;01&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328596" lims:id="1328596" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of one thousand one hundred and ninety square metres and seven tenths (1&#xA0;190.7&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328597" lims:id="1328597" level="4">
+          <TitleText>PARCEL 24 &#x2014; Part of lot 4&#xA0;921&#xA0;060</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328598" lims:id="1328598" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND AND SIXTY (Pt. lot 4&#xA0;921&#xA0;060), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328599" lims:id="1328599" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the east corner of Lot 4&#xA0;921&#xA0;060, bounded: eastwardly, by a part of lot 4&#xA0;921&#xA0;496, measuring along said limit one hundred ninety-seven metres and two hundredths (197.02&#xA0;m) on a bearing of 199&#xB0;18&#x2032;02&#x2033;, southeasterly, by a portion of lot 4&#xA0;921&#xA0;060, measuring along said boundary seven metres and ninety-nine hundredths (7.99&#xA0;m) on a bearing of 216&#xB0;11&#x2032;13&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said boundary eight metres and fifty-nine hundredths (8.59&#xA0;m) on a bearing of 219&#xB0;00&#x2032;35&#x2033;, southerly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit eight metres and forty-one hundredths (8.41&#xA0;m) on a bearing of 249&#xB0;05&#x2032;01&#x2033;, southerly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said boundary five metres and fourteen hundredths (5.14&#xA0;m) on a bearing of 276&#xB0;02&#x2032;47&#x2033;, southerly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said boundary ten metres and eight hundredths (10.08&#xA0;m) on a bearing of 289&#xB0;28&#x2032;21&#x2033;, southerly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said boundary four metres and eighty-one hundredths (4.81&#xA0;m) on a bearing of 256&#xB0;48&#x2032;19&#x2033;, southeasterly, through a portion of lot 4&#xA0;921&#xA0;060, measuring along said boundary eight metres and nine hundredths (8.09&#xA0;m) on a bearing of 221&#xB0;02&#x2032;31&#x2033;, southwesterly, by a part of lots 4&#xA0;921&#xA0;491 and 4&#xA0;921&#xA0;490, measuring along said boundary three hundred metres and seven hundredths (300.07&#xA0;m) on a bearing of 316&#xB0;15&#x2032;14&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit thirty-five metres and fourteen hundredths (35.14&#xA0;m) on a bearing of 46&#xB0;52&#x2032;40&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said boundary one hundred and eighty-three metres and sixty-six hundredths (183.66&#xA0;m) on a bearing of 137&#xB0;07&#x2032;39&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;060 measuring along said boundary thirty-two metres and sixty hundredths (32.60&#xA0;m) on a bearing of 134&#xB0;37&#x2032;49&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said boundary seventeen metres and thirty-eight hundredths (17.38&#xA0;m) on a bearing of 133&#xB0;01&#x2032;52&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit eight metres and four hundredths (8.04&#xA0;m) on a bearing of 26&#xB0;43&#x2032;03&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit seven metres and ninety-one hundredths (7.91&#xA0;m) on a bearing of 21&#xB0;45&#x2032;56&#x2033;, northwesterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit one hundred and seventy metres and forty-three hundredths (170.43&#xA0;m) on a bearing of 19&#xB0;18&#x2032;55&#x2033;, southwesterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit twenty-six metres and eight hundredths (26.08&#xA0;m) along an arc of a circle having a radius of twenty-four metres and eighty-three hundredths (24.83&#xA0;m), northwesterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit one hundred and seven metres and twenty-five hundredths (7.25&#xA0;m) on a bearing of 42&#xB0;19&#x2032;36&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;033 and lot 4&#xA0;921&#xA0;034, measuring along said limit seventy-three metres and seventy-six hundredths (73.66&#xA0;m) on a bearing of 137&#xB0;22&#x2032;53&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit three metres and sixteen hundredths (3.16&#xA0;m) on a bearing of 199&#xB0;16&#x2032;34&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said boundary six metres and two hundredths (6.02&#xA0;m) on a bearing of 109&#xB0;45&#x2032;05&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;034, measuring along said boundary sixteen metres and thirty-three hundredths (16.33&#xA0;m) on a bearing of 137&#xB0;22&#x2032;54&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328600" lims:id="1328600" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of twenty-six thousand three hundred and eighty-eight square metres and four tenths (26&#xA0;388.4&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328601" lims:id="1328601" level="4">
+          <TitleText>PARCEL 25 &#x2014; Part of lot 4&#xA0;921&#xA0;491</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328602" lims:id="1328602" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FOUR MILLION NINE HUNDRED AND TWENTY-ONE THOUSAND FOUR HUNDRED AND NINETY-ONE (Pt. lot 4&#xA0;921&#xA0;491), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328603" lims:id="1328603" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 4&#xA0;921&#xA0;491, bounded : northeasterly, by a part of lot 4&#xA0;921&#xA0;060, measuring along said limit one hundred and eighty-three metres and nine hundredths (183.09&#xA0;m) on a bearing of 136&#xB0;15&#x2032;14&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;491, measuring along said limit sixty-six hundredths of a metre (0.66&#xA0;m) on a bearing of 221&#xB0;21&#x2032;53&#x2033;, measuring along said boundary five metres and eighty-one hundredths (5.81&#xA0;m) on a bearing of 299&#xB0;06&#x2032;13&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;491, measuring along said boundary fourteen metres and fourteen hundredths (14.14&#xA0;m) on a bearing of 211&#xB0;34&#x2032;56&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;491, measuring along said boundary six metres and forty-eight hundredths (6.48&#xA0;m) on a bearing of 119&#xB0;46&#x2032;47&#x2033;, southeasterly, by a part of lot 4&#xA0;921&#xA0;491, measuring along said limit three metres and twenty-nine hundredths (3.29&#xA0;m) on a bearing of 210&#xB0;36&#x2032;37&#x2033;, northeasterly, by a part of lot 4&#xA0;921&#xA0;491, measuring along said limit one metre and ninety-nine hundredths (1.99&#xA0;m) on a bearing of 152&#xB0;57&#x2032;47&#x2033;, southwesterly, by a part of lot 3&#xA0;527&#xA0;127, measuring along said limit one hundred ninety metres and forty-five hundredths (190.45&#xA0;m) on a bearing of 317&#xB0;11&#x2032;33&#x2033;, northwesterly, by lot 4&#xA0;921&#xA0;490, measuring along said limit fourteen metres and eighty-three hundredths (14.83&#xA0;m) on a bearing of 47&#xB0;11&#x2032;32&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328604" lims:id="1328604" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of two thousand nine hundred and fifty-three square metres and three tenths (2&#xA0;953.3&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328605" lims:id="1328605" level="4">
+          <TitleText>PARCEL 26 &#x2014; Part of lot 3&#xA0;527&#xA0;127</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328606" lims:id="1328606" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot THREE MILLION FIVE HUNDRED AND TWENTY-SEVEN THOUSAND ONE HUNDRED AND TWENTY-SEVEN (Pt. lot 3&#xA0;527&#xA0;127), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328607" lims:id="1328607" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 3&#xA0;527&#xA0;127, bounded: northeasterly by a portion of lots 4&#xA0;921&#xA0;490 and 4&#xA0;921&#xA0;491, measuring along said boundary three hundred and eight metres and ninety-one hundredths (308.91&#xA0;m) on a bearing of 137&#xB0;11&#x2032;59&#x2033;, northeasterly, through a portion of lot 3&#xA0;527&#xA0;127, measuring along said limit five metres and forty-five hundredths (5.45&#xA0;m) on a bearing of 152&#xB0;57&#x2032;47&#x2033;, northeasterly, through a portion of lot 3&#xA0;527&#xA0;127, measuring along said limit sixteen metres and sixty hundredths (16.60&#xA0;m) on a bearing of 157&#xB0;38&#x2032;00&#x201D;, northeasterly, through lot 3&#xA0;527&#xA0;27, measuring along said boundary sixteen metres and ninety-two hundredths (16.92&#xA0;m) on a bearing of 152&#xB0;03&#x2032;57&#x2033;, northeasterly, by lot 3&#xA0;527&#xA0;127, measuring along said boundary sixty-four hundredths of a metre (0.64&#xA0;m) on a bearing of 138&#xB0;53&#x2032;30&#x2033;, southwesterly, by lot 3&#xA0;527&#xA0;455, measuring along said boundary five metres and eleven hundredths (5.11&#xA0;m) on a bearing of 287&#xB0;18&#x2032;13&#x201D;, southwesterly, through lots 3&#xA0;527&#xA0;330, 3&#xA0;527&#xA0;331 and 3&#xA0;527&#xA0;332, measuring along said boundary eighty-two metres and twenty-four hundredths (82.24&#xA0;m) on a bearing of 316&#xB0;49&#x2032;59&#x2033;, northwesterly, though lot 3&#xA0;527&#xA0;333, measuring along said boundary six metres and nine hundredths (6.09&#xA0;m) on a bearing of 46&#xB0;46&#x2032;06&#x2033;, southwesterly, through lots 3&#xA0;527&#xA0;333, 3&#xA0;527&#xA0;334, 3&#xA0;527&#xA0;335, 3&#xA0;526&#xA0;957, 3&#xA0;527&#xA0;336, 3&#xA0;526&#xA0;955, 3&#xA0;526&#xA0;954, 3&#xA0;526&#xA0;953, 3&#xA0;526&#xA0;952, 3&#xA0;526&#xA0;951, 3&#xA0;526&#xA0;950, 5&#xA0;468&#xA0;104, 5&#xA0;468&#xA0;103, 5&#xA0;137&#xA0;446 and 5&#xA0;137&#xA0;444, measuring along said boundary two hundred and fifty-nine metres and thirty-nine hundredths (259.39&#xA0;m) on a bearing of 316&#xB0;58&#x2032;14&#x2033;, northwesterly, by a portion of lot 3&#xA0;527&#xA0;127, measuring along said limit nine metres and seventy-one hundredths (9.71&#xA0;m) on a bearing of 44&#xB0;10&#x2032;41&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328608" lims:id="1328608" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of three thousand three hundred and ninety-eight square metres and three tenths (3&#xA0;398.3&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+        <Heading lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328609" lims:id="1328609" level="4">
+          <TitleText>PARCEL 27 &#x2014; Part of lot 5&#xA0;468&#xA0;103</TitleText>
+        </Heading>
+        <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328610" lims:id="1328610" format-ref="indent-0-0" language-align="yes">
+          <Text>One (1) parcel of land of irregular figure known and designated as a part of lot FIVE MILLION FOUR HUNDRED AND SIXTY-EIGHT THOUSAND ONE HUNDRED AND THREE (Pt. lot 5&#xA0;468&#xA0;103), of the cadastre of Quebec, registration division of Longueuil, bounded and described as follows:</Text>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328611" lims:id="1328611" format-ref="indent-0-0" language-align="yes">
+            <Text>Commencing at the north corner of lot 5&#xA0;468&#xA0;103, bounded : northeasterly, by a part of lot 3&#xA0;527&#xA0;127, measuring along said boundary fourteen metres and twenty-nine hundredths (14.29&#xA0;m) on a bearing of 136&#xB0;58&#x2032;14&#x2033;, southeasterly, by lot 5&#xA0;468&#xA0;104, measuring along said boundary thirty-three metres and twenty hundredths (33.20&#xA0;m) on a bearing of 227&#xB0;25&#x2032;45&#x2033;, southwesterly, by a part of lot 5&#xA0;468&#xA0;103, measuring along said limit thirteen metres and ninety-one hundredths (13.91&#xA0;m) on a bearing of 317&#xB0;16&#x2032;10&#x2033;, northwesterly, by lot 5&#xA0;137&#xA0;446, measuring along said limit thirty-three metres and eleven hundredths (33.11&#xA0;m) on a bearing of 46&#xB0;46&#x2032;05&#x2033;.</Text>
+          </Provision>
+          <Provision lims:inforce-start-date="2021-11-20" lims:enacted-date="2021-11-20" lims:fid="1328612" lims:id="1328612" format-ref="indent-0-0" language-align="yes">
+            <Text>Containing an area of four hundred and sixty-six square metres and seven-tenths (466.7&#xA0;m<Sup>2</Sup>).</Text>
+          </Provision>
+        </Provision>
+      </Provision>
+    </Provision>
+  </Schedule>
+</Regulation>
