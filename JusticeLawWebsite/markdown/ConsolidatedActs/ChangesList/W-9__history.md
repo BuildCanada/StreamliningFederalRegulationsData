@@ -1,0 +1,96 @@
+<main class="col-md-9 col-md-push-3" property="mainContentOfPage">
+
+:::: legisHeader
+<header>
+<h1 class="HeadTitle">
+Canada Wildlife Act (R.S.C., 1985, c. W-9)
+</h1>
+
+::: {.lineSeparator .goldLineTop}
+:::
+
+</header>
+::::
+
+<h2 class="PITIndex" id="wb-cont">
+Full Documents available for previous versions
+</h2>
+<ul>
+<li>
+2024
+<ul>
+<li>
+`<a href="20241127/P1TT3xt3.html">`{=html}From 2024-11-27 to
+2025-09-15`</a>`{=html}
+</li>
+</ul>
+</li>
+<li>
+2017
+<ul>
+<li>
+`<a href="20171212/P1TT3xt3.html">`{=html}From 2017-12-12 to
+2024-11-26`</a>`{=html}
+</li>
+<li>
+`<a href="20170712/P1TT3xt3.html">`{=html}From 2017-07-12 to
+2017-12-11`</a>`{=html}
+</li>
+</ul>
+</li>
+<li>
+2010
+<ul>
+<li>
+`<a href="20101210/P1TT3xt3.html">`{=html}From 2010-12-10 to
+2017-07-11`</a>`{=html}
+</li>
+</ul>
+</li>
+<li>
+2005
+<ul>
+<li>
+`<a href="20050401/P1TT3xt3.html">`{=html}From 2005-04-01 to
+2010-12-09`</a>`{=html}
+</li>
+</ul>
+</li>
+<li>
+2004
+<ul>
+<li>
+`<a href="20041215/P1TT3xt3.html">`{=html}From 2004-12-15 to
+2005-03-31`</a>`{=html}
+</li>
+</ul>
+</li>
+<li>
+2003
+<ul>
+<li>
+`<a href="20030324/P1TT3xt3.html">`{=html}From 2003-03-24 to
+2004-12-14`</a>`{=html}
+</li>
+</ul>
+</li>
+<li>
+2002
+<ul>
+<li>
+`<a href="20021231/P1TT3xt3.html">`{=html}From 2002-12-31 to
+2003-03-23`</a>`{=html}
+</li>
+</ul>
+</li>
+</ul>
+﻿
+<dl id="wb-dtmd">
+<dt>
+Date modified:
+</dt>
+<dd>
+`<time property="dateModified">`{=html}2025-09-25`</time>`{=html}
+</dd>
+</dl>
+</main>

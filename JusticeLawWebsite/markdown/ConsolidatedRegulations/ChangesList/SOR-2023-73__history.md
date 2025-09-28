@@ -1,0 +1,42 @@
+<main class="col-md-9 col-md-push-3" property="mainContentOfPage">
+
+:::: legisHeader
+<header>
+<h1 class="HeadTitle">
+By-laws of the College of Patent Agents and Trademark Agents
+(SOR/2023-73)
+</h1>
+
+::: {.lineSeparator .goldLineTop}
+:::
+
+</header>
+::::
+
+<h2 class="PITIndex" id="wb-cont">
+Full Documents available for previous versions
+</h2>
+<ul>
+<li>
+`<a href="20240101/P1TT3xt3.html">`{=html}From 2024-01-01 to
+2025-09-15`</a>`{=html}
+</li>
+<li>
+`<a href="20230501/P1TT3xt3.html">`{=html}From 2023-05-01 to
+2023-12-31`</a>`{=html}
+</li>
+<li>
+`<a href="20230412/P1TT3xt3.html">`{=html}From 2023-04-12 to
+2023-04-30`</a>`{=html}
+</li>
+</ul>
+﻿
+<dl id="wb-dtmd">
+<dt>
+Date modified:
+</dt>
+<dd>
+`<time property="dateModified">`{=html}2025-09-25`</time>`{=html}
+</dd>
+</dl>
+</main>
